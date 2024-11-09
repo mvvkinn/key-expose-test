@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo
+
+s3:
+  region: ap-northeast-2
+  bucket: your-bucket-name
